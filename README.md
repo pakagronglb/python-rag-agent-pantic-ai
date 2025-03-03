@@ -94,3 +94,13 @@ This project was inspired by [Jie Jenn's YouTube tutorial](https://www.youtube.c
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+🏠 Property Information Assistant
+    [Header]
+
+Ask a Question
+    [Input Form with background]
+    [Full-width Search button]
+
+📝 Response
+    [Response area with background]
