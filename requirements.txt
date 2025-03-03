@@ -1,0 +1,7 @@
+openai~=1.25.0
+lancedb~=0.20.0
+pydantic~=2.10.6
+streamlit~=1.42.2
+python-dotenv~=1.0.1
+tiktoken~=0.7.0
+pydantic-ai~=0.7.1 
